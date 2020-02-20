@@ -32,10 +32,6 @@ img {
         row-gap: 20px;
         padding-top: 75px;
     }
-    #mystuff div {
-        padding-top: 100px;
-        padding-bottom: 100px;
-    }
     #mystuff div:nth-child(even) {
         border: solid black;
     }
