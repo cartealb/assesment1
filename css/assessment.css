@@ -33,6 +33,6 @@ img {
         padding-top: 75px;
     }
     #mystuff div:nth-child(even) {
-        border: solid black;
+        border: 2px solid black;
     }
 }
